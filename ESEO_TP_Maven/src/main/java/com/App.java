@@ -15,6 +15,8 @@ public class App
         long total = operations.additionner(3, 2);
         System.out.println( "total : " + total );
 
+        
+        // TEST
     }
 
 }
