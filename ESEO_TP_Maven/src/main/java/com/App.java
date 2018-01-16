@@ -16,7 +16,7 @@ public class App
         System.out.println( "total : " + total );
 
         
-        // TEST
+        // TEST CHANGEMENT
     }
 
 }
